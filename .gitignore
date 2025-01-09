@@ -1,0 +1,6 @@
+/terraform_code/eks_code/.terraform/
+/terraform_code/ec2_server/.terraform/
+/posts/node_modules/
+/moderation/node_modules/
+/event-bus/node_modules/
+/comments/node_modules/
